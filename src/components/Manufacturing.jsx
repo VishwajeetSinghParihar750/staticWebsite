@@ -4,7 +4,7 @@ import AnimationSlideUp from './ui/AnimationSlideUp';
 const Manufacturing = () => (
   <section
     id="manufacturing"
-    className="py-16 pt-36 bg-gradient-to-b from-[#c2ddef] to-gray-50"
+    className="py-16 pt-36 bg-[#F5F5F5]"
   >
     <div className="container mx-auto px-4">
       <h3 className="text-4xl font-bold text-center mb-8 text-gray-900">Manufacturing</h3>
