@@ -45,11 +45,11 @@ const HeroSection = () => {
     >
       <div className="relative z-10 text-center max-sm:px-2 max">
         <h2 className="text-5xl font-bold mb-6">AIDSPOT</h2>
-        <p className="text-3xl font-light mb-8">Your Trusted Partner for AI Digital Spots</p>
+        <p className="text-3xl font-light mb-8">Your Trusted AI Digital Partner In Public Places</p>
 
-        <div className="bg-black text-white rounded-full py-4 px-8 my-8 bg-opacity-20">
+        <div className="bg-black text-white rounded-full py-4 px-2 my-8 bg-opacity-20">
           <p className="text-2xl font-semibold">100% Solar Powered</p>
-          <p className="text-lg">Eco-friendly and sustainable energy solution for a brighter future.</p>
+          <p className="text-lg">Public Smart Point</p>
         </div>
         
       </div>
